@@ -59,28 +59,6 @@ The model leverages regression and classification algorithms to predict weather 
 - **Matplotlib**
 - **Seaborn**
 
-You can install the necessary dependencies using the following command:
-```bash
-pip install -r requirements.txt
-```
-
-## How to Run
-
-1. Clone the repository:
-   ```bash
-   git clone <repository_url>
-   ```
-
-2. Install the required dependencies:
-   ```bash
-   pip install -r requirements.txt
-   ```
-
-3. Open the Jupyter notebooks to review and run the models:
-   - **Plant Disease Detection**: `Plant_Disease.ipynb`
-   - **Weather Prediction**: `Weather_Pred.ipynb`
-
-4. Train the models using the datasets provided, or use your own datasets for predictions.
 
 ---
 
